@@ -1,11 +1,18 @@
 # Zoom-clone
-To test run
+To test
 
-clone this repo
+1. clone this repo
+2. npm install
+```
 npm i
+```
 
-Install and run peerjs
+3. Install and run peerjs
+```
 npm i -g peer
- peerjs --port 3001 
-
+ peerjs --port 3001
+```
+4. start the server
+```
 npm run devStart
+```
